@@ -6,7 +6,9 @@ Welcome to my GitHub repository for the projects I'll be working on during the S
 ## 🔰 Course Overview:
 
 Course Title: Selenium WebDriver with Python
+
 Instructor: Rahul Shetty
+
 Course Provider: Udemy
 
 
